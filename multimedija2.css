@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: #D385D3;
+	color:indigo
+}
+h1{color: darkblue;
+text-align: center;}
+img{margin: 10px;
+border: 2px solid #ccc;}
+video, iframe, audio{display:block;
+	margin: 20px auto;
+}
